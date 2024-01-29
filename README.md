@@ -5,3 +5,5 @@ Hello World
 
 push it to the limit
 push it twice
+
+Push from clone

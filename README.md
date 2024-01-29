@@ -8,4 +8,3 @@ push it twice
 
 Push from clone
 
-Push using VS CODE

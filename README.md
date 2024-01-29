@@ -1,5 +1,5 @@
 # Git-Workshop-2024
-Git Workshop 2024b
+Git Workshop 2024a
 
 Hello World
 
